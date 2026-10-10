@@ -1,1 +1,1 @@
-[Ver el documento PDF](./SLHL410DTTB0A1327-cabi-CONS-0005-2026.pdf)
+https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf
